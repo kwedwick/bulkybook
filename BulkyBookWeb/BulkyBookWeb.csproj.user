@@ -18,5 +18,6 @@
     <WebStackScaffolding_DbContextTypeFullName>BulkyBookWeb.Data.ApplicationDBContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <WebStackScaffolding_IsViewGenerationSelected>True</WebStackScaffolding_IsViewGenerationSelected>
+    <NameOfLastUsedPublishProfile>C:\Users\kwedw\OneDrive\Desktop\Coding Projects\BulkyBook\BulkyBookWeb\Properties\PublishProfiles\BulkyBookWeb10 - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
